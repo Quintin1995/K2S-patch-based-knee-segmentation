@@ -3,6 +3,7 @@
 This repository contains the code for the MICCAI 2022 challenge, "From Undersampled K-space to Automatic Segmentation," focused on knee MRI data.
 
 ![Segmented Knee Example](figures/best_example.png)
+
 *Figure 1: Example of segmented knee structures from undersampled k-space MRI data.*
 
 ## Introduction
