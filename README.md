@@ -106,6 +106,7 @@ Below are examples of the segmentation results obtained using our pipeline. Thes
 - **Original and Undersampled MRI Image:**
 
   ![Original and Undersampled MRI](figures/normal_mri_and_undersampled.png)
+  
   *Figure 1: Comparison of fully sampled and 8x undersampled MRI data, which serve as the input for the segmentation pipeline.*
 
 - **Initial Segmentation Prediction:**
