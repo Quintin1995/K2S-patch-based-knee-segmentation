@@ -4,7 +4,12 @@ This repository contains the code for the MICCAI 2022 challenge, "From Undersamp
 
 ## Introduction
 
-The K2S challenge aimed to improve knee MRI segmentation using deep learning on 8x undersampled k-space data, integrating reconstruction and segmentation into an end-to-end approach. For details, see the [K2S challenge](https://k2s.grand-challenge.org/) and the [publication](https://doi.org/10.3390/bioengineering10020267).
+The K2S challenge aimed to improve knee MRI segmentation using deep learning on 8x undersampled k-space data, integrating reconstruction and segmentation into an end-to-end approach. 
+
+For more details, explore the following resources:
+- **[K2S Challenge Website](https://k2s.grand-challenge.org/)**: Information about the challenge, dataset, and participants.
+- **[Publication](https://doi.org/10.3390/bioengineering10020267)**: Full academic paper detailing the challenge and methodologies.
+- **[MICCAI 2022 Presentation (PDF)](figures/K2S-MICCAI-2022-Presentation-Quintin-Stefan.pdf)**: Slides presented at MICCAI 2022, providing an overview of the project and results.
 
 ### Key Features:
 - **Data Preprocessing:** Transforming raw k-space MRI data into formats suitable for AI models.
